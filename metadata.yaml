@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33756'
     url: http://www.gutenberg.org/2009/agents/33756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31046#A-New-Pocket-Mouse--Genus-Perognathus--from-Kansas
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
