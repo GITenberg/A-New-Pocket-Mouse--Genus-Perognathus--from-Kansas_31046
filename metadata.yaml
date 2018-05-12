@@ -1,0 +1,30 @@
+_repo: A-New-Pocket-Mouse--Genus-Perognathus--from-Kansas_31046
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cockrum, E. Lendell
+    birthdate: 1920
+    deathdate: 2009
+    gutenberg_agent_id: '33756'
+    url: http://www.gutenberg.org/2009/agents/33756
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Mammals -- Kansas'
+- !lcsh 'Pocket mice'
+title: A New Pocket Mouse (Genus Perognathus) from Kansas
+url: http://www.gutenberg.org/ebooks/31046
